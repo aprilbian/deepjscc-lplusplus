@@ -1,2 +1,2 @@
 # deepjscc-lplusplus
-Source code for paper 'DeepJSCC-l++: Robust and Bandwidth-Adaptive Wireless Image Transmission', arxiv link: https://arxiv.org/abs/2305.13161, accepted to IEEE Globecom 2023.
+Source code for paper 'DeepJSCC-l++: Robust and Bandwidth-Adaptive Wireless Image Transmission', https://ieeexplore.ieee.org/document/10436878, IEEE Globecom 2023.
