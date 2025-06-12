@@ -1,6 +1,6 @@
 # DeepJSCC‑L++
 
-**Source code for [**DeepJSCC‑L++: Robust and Bandwidth‑Adaptive Wireless Image Transmission”](https://ieeexplore.ieee.org/document/10436878), IEEE Globecom 2023, by Chenghong Bian, Yulin Shao, and Deniz Gündüz.
+**Source code for [DeepJSCC‑L++: Robust and Bandwidth‑Adaptive Wireless Image Transmission”](https://ieeexplore.ieee.org/document/10436878), IEEE Globecom 2023, by Chenghong Bian, Yulin Shao, and Deniz Gündüz.
 
 ---
 
