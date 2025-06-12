@@ -19,9 +19,9 @@ See the slides for the Globecom conference, `globecom pre.pdf` for more details 
 
 To train a model, run
 
-```python main.py --test False```.
+```python run_swin_adapt.py --resume False```.
 
-See `main.py` file for more hyper parameters. 
+See `get_args.py` file for more hyper parameters. 
 
 The model will be stored in the `models/` folder.
 
@@ -32,4 +32,4 @@ The model will be stored in the `models/` folder.
 
 To evaluate the performance of a given setting
 
-```python main.py --test True```.
+```python run_swin_adapt.py --resume True```.
